@@ -9,4 +9,6 @@
 
 5.https://help.apple.com/xcode/mac/current/#/devc8c2a6be1
 
-6.https://developer.apple.com/download/more/
+6.https://help.apple.com/app-store-connect/#/dev300c2c5bf
+
+7.https://developer.apple.com/download/more/
