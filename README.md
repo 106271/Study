@@ -32,12 +32,21 @@
 
 
 20.https://github.com/apple -苹果
+
 21.https://github.com/google    -谷歌
+
 22.https://github.com/youtube   -油管
+
 3.https://github.com/Yahoo  -雅虎
+
 24.https://github.com/nasa
+
 25.https://github.com/Evernote  -印象笔记
+
 26.https://github.com/amzn  -亚马逊
+
 27.https://github.com/microsoft -微软
+
 28.https://github.com/uber  -优步
+
 29.https://github.com/ibm   -IBM
